@@ -1,0 +1,37 @@
+_repo: Vanhanpojan-huomioita_74305
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arima, Onni W. (Onni Wilhelm)
+    aliases:
+    - Arima, Onni Wilhelm
+    - Brummer, Onni Wilhelm
+    birthdate: 1865
+    deathdate: 1910
+    gutenberg_agent_id: '57433'
+    url: http://www.gutenberg.org/2009/agents/57433
+    wikipedia: https://fi.wikipedia.org/wiki/Onni_W._Arima
+description: ''
+gutenberg_issued: '2024-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74305'
+language: fi
+pgterms:marc905: 20240625014856arima
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansa, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Kun Heikki Heinonen oli v.t. -- Vapunpäivänä -- Urheilua -- »Vahti»
+  -- »Kesälaitumella» -- Susi lammasten vaatteissa -- Mätäkuulla -- Erehdys -- Arvostelu
+  -- Ensimmäinen laukaukseni -- Sedän vierailu.
+title: Vanhanpojan huomioita
+url: http://www.gutenberg.org/ebooks/74305
