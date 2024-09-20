@@ -1,5 +1,8 @@
 _repo: Vanhanpojan-huomioita_74305
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arima, Onni W. (Onni Wilhelm)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57433
     wikipedia: https://fi.wikipedia.org/wiki/Onni_W._Arima
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74305#Vanhanpojan-huomioita
 gutenberg_issued: '2024-08-23'
 gutenberg_type: Text
 identifiers:
